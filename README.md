@@ -10,7 +10,7 @@ Rhythmic Tunes is a web application designed to provide users with a seamless mu
 -Playlist creation and management.
 -Responsive design for mobile and desktop. 
 
-##Architecture
+## Architecture
 
 Component Structure:
 The application is built using React.js with a component-based architecture. Major components include:
@@ -28,11 +28,11 @@ The application is built using React.js with a component-based architecture. Maj
 -Playlist Page: Displays user-created playlists and allows playlist management.
 
 
-##State Management:
+## State Management:
 
 The application uses Redux for global state management. The Redux store manages user authentication, current playing track, playlist data, and search results.
 
-Routing:
+## Routing:
 The application uses React Router for navigation. Routes include:
 
 -/: Home page
@@ -54,6 +54,6 @@ The application uses React Router for navigation. Routes include:
 - Home, Search, Playlist
 - Header, Sidebar, Player
 
-##Attaching code :
+## Attaching code :
 
 https://drive.google.com/drive/folders/1Hb20d6gSHU3I5FKRvnQbGw-Rx0tpIwF_?usp=sharing
