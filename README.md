@@ -18,3 +18,6 @@ Rhythmic Tunes is a music player web app where users can browse, search, and pla
 ## Pages & Components:
 - Home, Search, Playlist
 - Header, Sidebar, Player
+
+##Attaching code :
+https://drive.google.com/drive/folders/1Hb20d6gSHU3I5FKRvnQbGw-Rx0tpIwF_?usp=sharing
